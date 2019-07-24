@@ -20,4 +20,4 @@ Our product was written using a React.js front end and Express.js back end. Our 
 **skill-Language-Teacher.json** - skeleton script for Watson Assistant \
 **node_modules.zip** - list of Node package dependencies required for the language chatbot to integrate the frontend and the backend \
 **client.zip** - contains the source code necessary for rendering a UI. Includes images, fonts, css files, ReactJS files, and Node package dependencies \
-**backend.zip** - contains all the API calls necessary to connect to Watson Assistant and return a chatbot. Mainly uses Express \
+**backend.zip** - contains all the API calls necessary to connect to Watson Assistant and return a chatbot. Mainly uses Express 
